@@ -19,8 +19,43 @@ const db = {
         },
         {
             "name": "Ford",
-            "color": "#ef3c40",
+            "color": "#c18214",
             "id": 4,
+        },
+        {
+            "name": "Mazda",
+            "color": "#e50f50",
+            "id": 5,
+        },
+        {
+            "name": "Honda",
+            "color": "#a42123",
+            "id": 6,
+        },
+        {
+            "name": "Porshe",
+            "color": "#000000",
+            "id": 7,
+        },
+        {
+            "name": "Acura",
+            "color": "#b85423",
+            "id": 8,
+        },
+        {
+            "name": "Skoda",
+            "color": "#091258",
+            "id": 9,
+        },
+        {
+            "name": "Lamborgini",
+            "color": "#f55399",
+            "id": 10,
+        },
+        {
+            "name": "Ferrari",
+            "color": "#ef3c40",
+            "id": 11,
         },
     ],
     winners: [
@@ -28,6 +63,11 @@ const db = {
             id: 1,
             wins: 1,
             time: 10,
+        },
+        {
+            id: 2,
+            wins: 7,
+            time: 7.3,
         },
         {
             id: 3,
@@ -38,6 +78,41 @@ const db = {
             id: 4,
             wins: 2,
             time: 5.5,
+        },
+        {
+            id: 5,
+            wins: 3,
+            time: 4.5,
+        },
+        {
+            id: 6,
+            wins: 2,
+            time: 2.5,
+        },
+        {
+            id: 7,
+            wins: 8,
+            time: 5.2,
+        },
+        {
+            id: 8,
+            wins: 1,
+            time: 3.6,
+        },
+        {
+            id: 9,
+            wins: 2,
+            time: 5.1,
+        },
+        {
+            id: 10,
+            wins: 4,
+            time: 9.2,
+        },
+        {
+            id: 11,
+            wins: 12,
+            time: 1.1,
         }
     ]
 };
